@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListasDiplomado</string>
+    <string-array name="lisValues">
+        <item>Pepe pecas</item>
+        <item>Pepe pecos</item>
+        <item>Pepe picas</item>
+    </string-array>
+</resources>
